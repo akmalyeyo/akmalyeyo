@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there, I'm Muhammad Akmal Jamaludin 😈
 
-<!--
-**akmalyeyo/akmalyeyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github page!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🥷 About Me
+
+I'm **Muhammad Akmal Jamaludin**, and I'm a student at STIKOM EL Rahma, majoring in **Informatics**. My hobbies include playing soccer and watching movies. I live in **Indonesia**🇮🇩
+
+---
+
+## 🌐 Sosial Media
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/<aakmaelle_instagram>)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://X.com/in/<akmlll___X>)

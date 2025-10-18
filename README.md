@@ -10,7 +10,10 @@ I'm **Muhammad Akmal Jamaludin**, and I'm a student at STIKOM EL Rahma, majoring
 
 ---
 
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akmalyeyo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=akmalyeyo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akmalyeyo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
